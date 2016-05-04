@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlogReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_item">No items to display!</string>
+    <string name="error_title">Ops! Sorry!</string>
+    <string name="error_message">There was an error getting data from the blog</string>
+    <string name="title_activity_blog_web_view_acivity">Blog Post</string>
+    <string name="share">Share</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="share_message">How do you want to share?</string>
+
+</resources>
